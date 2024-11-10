@@ -1,7 +1,7 @@
 /* Menu */
 
-@import url("https://fonts.googleapis.com/css2?family=DM Sans:wght@400;500;700&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Playfair Display:wght@400;500&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=DM Sans:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair Display:wght@400;500&display=swap');
 
 p {
   margin: 0;
@@ -316,7 +316,7 @@ p {
   flex-direction: column;
   justify-content: center;
   color: rgba(44, 47, 36, 1);
-  font-size: 100px;
+  font-size: 50px;
   line-height: 96%;
   font-family: Playfair Display, serif;
   font-weight: 400;
@@ -328,7 +328,7 @@ p {
   flex-direction: column;
   justify-content: center;
   color: rgba(73, 84, 96, 1);
-  font-size: 18px;
+  font-size: 28px;
   line-height: 156%;
   font-family: DM Sans, sans-serif;
   font-weight: 400;
