@@ -54,7 +54,7 @@ function Home() {
               #Catering
             </Button>
             <Button variant="primary" className="blog">
-              #Home-cooked meal
+              #Home-cooked
             </Button>
           </div>
         </div>
