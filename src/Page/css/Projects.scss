@@ -1,0 +1,58 @@
+// .ProjectsTop {
+//   width: 100%;
+//   height: 900px;
+//   background-color: bisque;
+//   display: flex;
+//   justify-content: flex-start;
+//   align-items: center;
+//   flex-flow: column;
+//   // padding-top: 60px;
+// }
+.responsive-image {
+  width: 100%;
+  height: 800px;
+  background-color: bisque;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-flow: column;
+
+  // width: 100%; /* 기본 크기 */
+  // height: auto; /* 비율 유지 */
+  // max-width: 600px; /* 최대 크기 제한 */
+  // display: block;
+  // margin: 0 auto; /* 중앙 정렬 */
+}
+
+// /* 화면이 768px 이하일 때 이미지 크기 조정 */
+// @media (max-width: 768px) {
+//   .responsive-image {
+//     max-width: 90%;
+//   }
+// }
+
+// /* 화면이 480px 이하일 때 이미지 크기 조정 */
+// @media (max-width: 480px) {
+//   .responsive-image {
+//     max-width: 100%;
+//   }
+// }
+
+
+@media (max-width: 1780px) {
+  .responsive-image {
+    width: 100%;
+    height: auto;
+    background-color: #789;
+    // padding-top: 60px;
+  }
+
+}
+@media (max-width: 940px) {
+  .responsive-image {
+    width: 100%;
+    height: auto;
+    background-color: #789;
+    // padding-top: 60px;
+  }
+}

@@ -1,0 +1,33 @@
+#about {
+  width: 100%;
+  height: auto;
+  background-color: #b0b3b2;
+  /* padding-top: 60px; */
+}
+
+.text {
+  font-size: 2.5em;
+  margin-bottom: 3vh;
+  color: rgb(0, 0, 0); /* 텍스트 색상 변경 */
+
+}
+.text_small_about {
+  font-size: 1.4em;
+  margin-bottom: 1.8vh;
+  color: rgb(0, 0, 0); /* 텍스트 색상 변경 */
+  /* text-align: justify; */
+}
+.text_small_1 {
+  font-size: 1.3em;
+  /* margin-bottom: 1.6vh; */
+  font-weight: bold; /* 굵게 */
+  /* background-color: yellow; 배경색 강조 */
+  color: rgb(0, 0, 0); /* 텍스트 색상 변경 */
+  /* text-align: justify; */
+}
+
+
+.Row {
+  padding-top: 2vh;
+  padding-bottom: 2vh;
+}
